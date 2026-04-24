@@ -8,7 +8,7 @@ Este é um Dashboard de monitoramento de sites desenvolvido para acompanhar a di
 - **Interface Moderna:** Sidebar estilo Streamlit com modo escuro (Dark Mode).
 - **Design Responsivo:** Feito com Tailwind CSS para se adaptar a qualquer tela.
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 - [Next.js 14](https://nextjs.org/) (Framework React)
 - [Tailwind CSS](https://tailwindcss.com/) (Estilização)
 - [Lucide React](https://lucide.dev/) (Ícones)
